@@ -10,3 +10,10 @@ The bash script is the one I am currently using. I'll try to keep it updated wit
 of my script (which is currently located in the scripts/python-helper-scripts folder).
 If you would like to use the script in a similar way, I recommend adapting the script to your
 needs and then put it somewhere in your PATH.
+
+## nbconvert remarks
+
+- I was having some problems when the version of jupyter notebook was too high (7.0 or higher).
+  I guess this is related to the new notebook format.
+  (TODO3: understand why the problems occured and why the fix worked (currently no time for this
+  since I need to work on other things))
